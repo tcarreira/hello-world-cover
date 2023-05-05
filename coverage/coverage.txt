@@ -1,0 +1,5 @@
+github.com/tcarreira/redcloud-hello-world/pkg/api/api.go:10:	NewEchoServer	100.0%
+github.com/tcarreira/redcloud-hello-world/pkg/api/api.go:25:	getHeathcheck	100.0%
+github.com/tcarreira/redcloud-hello-world/pkg/api/api.go:29:	getHelloWorld	100.0%
+github.com/tcarreira/redcloud-hello-world/pkg/api/api.go:35:	FullURL		0.0%
+total:								(statements)	90.0%
